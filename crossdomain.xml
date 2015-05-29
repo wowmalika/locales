@@ -1,0 +1,10 @@
+<cross-domain-policy>
+<allow-access-from domain="faminta.com"/>
+<allow-access-from domain="*.faminta.com"/>
+<allow-access-from domain="mastertigra.com"/>
+<allow-access-from domain="*.mastertigra.com"/>
+<allow-access-from domain="banded-earth-605.appspot.com"/>
+<allow-access-from domain="*-dot-banded-earth-605.appspot.com"/>
+<allow-http-request-headers-from domain="*" headers="*" secure="false"/>
+<site-control permitted-cross-domain-policies="master-only"/>
+</cross-domain-policy>
