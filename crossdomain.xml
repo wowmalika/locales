@@ -6,4 +6,6 @@
 <allow-access-from domain="banded-earth-605.appspot.com"/>
 <allow-access-from domain="*-dot-banded-earth-605.appspot.com"/>
 <allow-access-from domain="famintaswf-a.akamaihd.net"/>
+<allow-http-request-headers-from domain="*" headers="*" secure="false"/>
+<site-control permitted-cross-domain-policies="all"/>
 </cross-domain-policy>
