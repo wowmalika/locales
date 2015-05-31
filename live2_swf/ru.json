@@ -1713,5 +1713,6 @@
   "еnter_name_show_maximum_150_characters": "Введите название шоу (максимум 150 символов)",
   "сheck_in_progress": "Идет проверка…",
   "сreating_show": "Создание шоу",
-  "yesterday": "вчера"
+  "yesterday_at": "вчера в {0}",
+  "today_at": "сегодня в {0}"
 }

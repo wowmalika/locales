@@ -1713,5 +1713,6 @@
   "еnter_name_show_maximum_150_characters": "Event name... (max: 150 characters)",
   "сheck_in_progress": "Check in progress...",
   "сreating_show": "Create Event",
-  "yesterday": "yesterday"
+  "yesterday_at": "yesterday at {0}",
+  "today_at": "today at {0}"
 }
