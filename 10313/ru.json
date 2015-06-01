@@ -28,5 +28,7 @@
   "vf_rate_never": "Никогда",
   "vf_rate_now": "Оценить",
   "vf_rate_title": "Viposter",
-  "you_are_banned_in_city": "Вы забанены в данном городе."
+  "you_are_banned_in_city": "Вы забанены в данном городе.",
+  "poster_tab": "Афиша",
+  "main_chat": "Чат"
 }

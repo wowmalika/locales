@@ -23,5 +23,7 @@
   "vb_rate_never": "Don't ask again",
   "vb_rate_now": "Rate Now",
   "vb_rate_title": "FlirtyMania",
-  "you_are_banned_in_city": "You are banned in this city."
+  "you_are_banned_in_city": "You are banned in this city.",
+  "poster_tab": "Explore",
+  "main_chat": "Chat"
 }
