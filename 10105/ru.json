@@ -455,5 +455,6 @@
   "you_forgot_enter_nickname": "Вы забыли ввести ник",
   "you_not_moderator": "Вы больше не модератор",
   "you_now_moderator": "Вы назначены модератором",
-  "you_was_banned_forever": "Вы были забаненны навсегда."
+  "you_was_banned_forever": "Вы были забаненны навсегда.",
+  "set_date_accept": "Применить"
 }

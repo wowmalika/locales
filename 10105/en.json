@@ -454,5 +454,6 @@
   "you_forgot_enter_nickname": "You forgot to enter a nickname",
   "you_not_moderator": "You are no longer a moderator",
   "you_now_moderator": "You are assigned as a moderator",
-  "you_was_banned_forever": "You are banned forever."
+  "you_was_banned_forever": "You are banned forever.",
+  "set_date_accept": "Set"
 }
