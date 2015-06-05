@@ -1,5 +1,5 @@
 {
-  "about_me": "Обо мне",
+  "about_me": "Информация",
   "accept_user_agreement": "Используя сервис вы принимаете условия [пользовательского соглашения]",
   "accept_user_agreement_button": "Подтверждая запрос, вы разрешаете этому приложению использовать свои данные в соответствии с Условиями использования и Политикой конфиденциальности.",
   "added_friend": "Добавлен в друзья {0}",
@@ -456,5 +456,9 @@
   "you_not_moderator": "Вы больше не модератор",
   "you_now_moderator": "Вы назначены модератором",
   "you_was_banned_forever": "Вы были забаненны навсегда.",
-  "set_date_accept": "Применить"
+  "set_date_accept": "Применить",
+  "vip_activate": "Включить",
+  "profile_support": "Поддержка",
+  "support_link": "http://tv.faminta.com/sso/freshdesk/login?fa.app.id=vb",
+  "user_agreement_link": "http://mastertigra.com/agreement"
 }

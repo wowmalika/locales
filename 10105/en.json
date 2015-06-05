@@ -1,5 +1,5 @@
 {
-  "about_me": "About me",
+  "about_me": "Information",
   "accept_user_agreement": "To proceed, you accept that you agree with the [User Agreement]",
   "accept_user_agreement_button": "Confirming the request, you allow the application to use your data in accordance with the Terms of Use and Privacy Policy.",
   "added_friend": "Added Friend {0}",
@@ -455,5 +455,9 @@
   "you_not_moderator": "You are no longer a moderator",
   "you_now_moderator": "You are assigned as a moderator",
   "you_was_banned_forever": "You are banned forever.",
-  "set_date_accept": "Set"
+  "set_date_accept": "Set",
+  "vip_activate": "Activate",
+  "profile_support": "Support",
+  "support_link": "http://tv.faminta.com/sso/freshdesk/login?fa.app.id=vb",
+  "user_agreement_link": "http://mastertigra.com/en/agreement"
 }
