@@ -460,5 +460,6 @@
   "vip_activate": "Включить",
   "profile_support": "Поддержка",
   "support_link": "http://tv.faminta.com/sso/freshdesk/login?fa.app.id=vb",
-  "user_agreement_link": "http://mastertigra.com/agreement"
+  "user_agreement_link": "http://mastertigra.com/agreement",
+  "id_was_copied": "ID был скопирован"
 }
