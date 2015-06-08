@@ -1712,5 +1712,7 @@
   "you_wont_be_able_to_enter_this_room": "You won't be able to enter this room until the owner changes the privacy settings",
   "еnter_name_show_maximum_150_characters": "Event name... (max: 150 characters)",
   "сheck_in_progress": "Check in progress...",
-  "сreating_show": "Create Event"
+  "сreating_show": "Create Event",
+  "yesterday_at": "yesterday at {0}",
+  "today_at": "today at {0}"
 }
