@@ -460,5 +460,9 @@
   "profile_support": "Support",
   "support_link": "http://tv.faminta.com/sso/freshdesk/login?fa.app.id=vb",
   "user_agreement_link": "http://mastertigra.com/en/agreement",
-  "id_was_copied": "ID was copied"
+  "id_was_copied": "ID was copied",
+  "gnome_nations_head": "Gnome Nations",
+  "gnome_nations_create_link": "http://www.gnomenations.com/game?utm_source=flirtymania&utm_medium=promo&utm_campaign=gnomograd_create_city",
+  "gnome_nations_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd",
+  "gnome_nations_create": "Create сity"
 }
