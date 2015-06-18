@@ -1582,6 +1582,7 @@
   "monster_hates_cat_8": "Добычу",
   "monster_hates_cat_9": "Монстров",
   "monster_hates_param": "Ненавидит: {0} (урон x2)",
+  "monster_loves_param": "Любит: {0} (ремонт x2)",
   "monster_was_dodged": "Монстр увернулся",
   "moral_police": "Полиция нравов",
   "moral_police_consistance": "Состав полиции нравов",
