@@ -1220,6 +1220,10 @@
   "item_70006_desc": "Powerful and invincible machine of destruction.",
   "item_70006_prep": "Armoured chicken",
   "item_70006_rod": "Armoured chicken",
+  "item_70007": "CatyFay",
+  "item_70007_desc": "Walks and repair everything that comes to hand: the house, the monsters. He's a strange…",
+  "item_70007_prep": "CatyFay",
+  "item_70007_rod": "CatyFay",
   "item_98": "Stone crusher",
   "item_98_descr": "Transfroms stones to stone blocks\n",
   "item_98_prep": "Stone crusher",
@@ -2540,5 +2544,6 @@
   "you_will_earn_nothing_here": "You will earn nothing here",
   "you_will_get_10_percents_coins": "You will get +10% of bought coins",
   "zoom_in": "Zoom in",
+  "support": "Support",
   "zoom_out": "Zoom out"
 }
