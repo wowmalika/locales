@@ -1749,5 +1749,6 @@
   "city_lvl2":"City level {0}",
   "create_city":"Create city",
   "adopt_pet":"Adopt a pet",
-  "this_broadcast_ended":"This broadcast ended"
+  "this_broadcast_ended":"This broadcast ended",
+  "police":"Vice Squad"
 }
