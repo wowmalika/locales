@@ -89,7 +89,7 @@
   "buy": "Купить",
   "buy_coins": "Купить монет",
   "buy_coins_special": "КУПИТЬ",
-  "buy_coins_special_offer": "Сегодня, в честь дня рождения чата Реалити, мы удваиваем купленные монеты!",
+  "buy_coins_special_offer": "Сегодня, в честь дня рождения чата <a href='{0}'>Реалити</a>, мы удваиваем купленные монеты!",
   "buy_souvenir": "Купить сувениры",
   "buy_stickers_success": "Успешная покупка +{0} стикеров {1}, -{2} мон. +{3} оп.",
   "buy_vip": "Купить VIP",
@@ -465,5 +465,7 @@
   "gnome_nations_head": "Гномоград",
   "gnome_nations_create_link": "http://www.gnomograd.com/game?utm_source=videobeseda&utm_medium=promo&utm_campaign=gnomograd_create_city",
   "gnome_nations_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd",
-  "gnome_nations_create": "Создать город"
+  "gnome_nations_create": "Создать город",
+  "vreale_url_web": "http://www.vreale.tv?utm_source=videobeseda&utm_medium=promo&utm_campaign=bday",
+  "vreale_url_android": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dbday"
 }
