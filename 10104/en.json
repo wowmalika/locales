@@ -129,7 +129,7 @@
   "benefit_will_be": "Benefit will be of {0}",
   "black_cats": "Black cats",
   "black_market": "Black market",
-  "bonus_new_year": "Special New Year Offer: Double Coins.\nMerry Christmas & Happy New Year!",
+  "bonus_new_year": "Special New Year Offer: Double Coins.\nVanilla show birthday!",
   "bonus_of_every_fifteen_kd": "Bonus: An extra recommendation for every 15 golden coins!",
   "bonus_of_every_fifteen_rubles": "Bonus: An extra recommendation for every 15 roubles!",
   "bonus_valentine": "Special offer in honor of Victory Day: Double Coins. LAST DAY!",
@@ -661,7 +661,7 @@
   "get_permission": "Get permission",
   "get_wages": "Receive a salary",
   "gift_message": "Congratulatory message (optional)",
-  "good_news": "Bad news!",
+  "good_news": "Good news!",
   "google_play_url": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale",
   "goto_ad_settings": "Go to ad settings",
   "goto_your_chat": "Go to your own videochat",
@@ -1749,5 +1749,7 @@
   "city_lvl2":"City level {0}",
   "create_city":"Create city",
   "adopt_pet":"Adopt a pet",
-  "this_broadcast_ended":"This broadcast ended"
+  "this_broadcast_ended":"This broadcast ended",
+  "police":"Vice Squad",
+  "cat":"Cat"
 }
