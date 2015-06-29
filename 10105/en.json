@@ -462,9 +462,12 @@
   "user_agreement_link": "http://mastertigra.com/en/agreement",
   "id_was_copied": "ID was copied",
   "gnome_nations_head": "Gnome Nations",
-  "gnome_nations_create_link": "http://www.gnomenations.com/game?utm_source=flirtymania&utm_medium=promo&utm_campaign=gnomograd_create_city",
+  "gnome_nations_create_link": "http://www.gnomenations.com?utm_source=flirtymania&utm_medium=promo&utm_campaign=gnomograd_create_city",
   "gnome_nations_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd",
   "gnome_nations_create": "Create сity",
   "vreale_url_web": "http://www.vanillashow.com?utm_source=flirtymania&utm_medium=promo&utm_campaign=bday",
-  "vreale_url_android": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale&referrer=utm_source%3Dflirtymania%26utm_medium%3Dpromo%26utm_campaign%3Dbday"
+  "vreale_url_android": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale&referrer=utm_source%3Dflirtymania%26utm_medium%3Dpromo%26utm_campaign%3Dbday",
+ "maintain_app_for_exp": "Rate app 5 stars in Google Play and you will get 1000 experience for free! [Get experience.]",
+ "maintain_app_for_exp_success": "The experience accrued: +1000",
+ "maintain_app_for_exp_faild": "You have already received a free experience of the vote."
 }
