@@ -129,7 +129,7 @@
   "benefit_will_be": "Benefit will be of {0}",
   "black_cats": "Black cats",
   "black_market": "Black market",
-  "bonus_new_year": "Today, on the birthday Chat Vanilla Show, we double bought coins!",
+  "bonus_new_year": "Special offer in honor of birthday Chat Vanilla Show: Double Coins. LAST DAY!",
   "bonus_of_every_fifteen_kd": "Bonus: An extra recommendation for every 15 golden coins!",
   "bonus_of_every_fifteen_rubles": "Bonus: An extra recommendation for every 15 roubles!",
   "bonus_valentine": "Special offer in honor of Victory Day: Double Coins. LAST DAY!",
@@ -661,7 +661,7 @@
   "get_permission": "Get permission",
   "get_wages": "Receive a salary",
   "gift_message": "Congratulatory message (optional)",
-  "good_news": "Good news!",
+  "good_news": "Bad news!",
   "google_play_url": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale",
   "goto_ad_settings": "Go to ad settings",
   "goto_your_chat": "Go to your own videochat",
@@ -1080,7 +1080,7 @@
   "present_9": "Cake",
   "present_9may": "George Ribbon",
   "present_9may_descr": "A special gift in honor of the anniversary of the victory over Nazi Germany. It is a sign of immense gratitude and respect for the freedom and life of extracted blood and back-breaking labor for the good of the Great Victory.\n",
-  "present_akms": "Kalashnikov rifle",
+  "present_akms": "Kalashnikov Rifle",
   "present_akms_descr": "The most common small arms in the world. The gift, of course, does not shoot, but  definitely adds owner +100 masculinity.",
   "present_angel": "Guardian Angel",
   "present_angel_descr": "Good spirit that protects and guides a person throughout his life. Presenting such a gift means to express their concern and indifferent to the fate of the interlocutor.",
@@ -1740,7 +1740,7 @@
   "try_another_video":"Try another video",
   "insert_video_code":"Insert video code",
   "cant_publish":"Can't publish",
-  "how_to_receive_video_code":"To get the code, right-click on the video on the site vk.com. In the resulting menu, select «Copy video code»",
+  "how_to_receive_video_code":"Instructions for obtaining the code video",
   "click_to_continue":"Click to continue",
   "cant_find_video":"Can't find video",
   "city_lvl":"{0} level in the city Gnom Nations",
@@ -1751,5 +1751,6 @@
   "adopt_pet":"Adopt a pet",
   "this_broadcast_ended":"This broadcast ended",
   "police":"Vice Squad",
-  "cat":"Cat"
+  "cat":"Cat",
+  "cat_promo":"Озорной котенок ищет хозяев! Приобретай питомца еще котенком, и со временем получишь взрослого кота – главного любимца трансляций. Каждый период его взросления – это целое шоу! Закармливай подарками и отправляй усердней работать."
 }
