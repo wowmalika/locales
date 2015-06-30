@@ -40,7 +40,7 @@
   "alert_not_confirmed_head": "Not accepted",
   "alert_not_enough_coins": "Not enough coins for the action",
   "alert_not_enough_coins_head": "Not enough coins",
-  "alert_refresh_button": "Relaunch",
+  "alert_refresh_button": "Update",
   "alert_refresh_head_mobile": "Update the application",
   "alert_resresh_head": "Refresh the page",
   "alert_sell_present": "sell for {0}",
@@ -467,7 +467,7 @@
   "gnome_nations_create": "Create сity",
   "vreale_url_web": "http://www.vanillashow.com?utm_source=flirtymania&utm_medium=promo&utm_campaign=bday",
   "vreale_url_android": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale&referrer=utm_source%3Dflirtymania%26utm_medium%3Dpromo%26utm_campaign%3Dbday",
- "maintain_app_for_exp": "Rate app 5 stars in Google Play and you will get 1000 experience for free! [Get experience.]",
+ "maintain_app_for_exp": "Rate app in Google Play and you will get 1000 experience for free! [Get experience.]",
  "maintain_app_for_exp_success": "The experience accrued: +1000",
  "maintain_app_for_exp_faild": "You have already received a free experience of the vote."
 }

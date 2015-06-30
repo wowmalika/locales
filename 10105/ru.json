@@ -40,7 +40,7 @@
   "alert_not_confirmed_head": "Не принят",
   "alert_not_enough_coins": "Для действия не хватает монет",
   "alert_not_enough_coins_head": "Не хватает монет",
-  "alert_refresh_button": "Перезапустить",
+  "alert_refresh_button": "Обновить",
   "alert_refresh_head_mobile": "Обновите приложение",
   "alert_resresh_head": "Обновите страницу",
   "alert_sell_present": "продать за {0}",
@@ -468,7 +468,8 @@
   "gnome_nations_create": "Создать город",
   "vreale_url_web": "http://www.vreale.tv?utm_source=videobeseda&utm_medium=promo&utm_campaign=bday",
   "vreale_url_android": "https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dbday",
- "maintain_app_for_exp": "Оцените наше приложение в Google Play на 5 звезд и получите 1000 опыта бесплатно! [Получить опыт]",
+ "maintain_app_for_exp": "Оцените наше приложение в Google Play и получите 1000 опыта бесплатно! [Получить опыт]",
  "maintain_app_for_exp_success": "Опыт за оценку начислен +1000",
- "maintain_app_for_exp_faild": "Вы уже получали опыт за голосование"
+ "maintain_app_for_exp_faild": "Вы уже получали опыт за голосование",
+  "update_button": "Обновить"
 }
