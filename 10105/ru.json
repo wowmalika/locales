@@ -471,5 +471,7 @@
  "maintain_app_for_exp": "Оцените наше приложение в Google Play и получите 1000 опыта бесплатно! [Получить опыт]",
  "maintain_app_for_exp_success": "Опыт за оценку начислен +1000",
  "maintain_app_for_exp_faild": "Вы уже получали опыт за голосование",
-  "update_button": "Обновить"
+ "successful_purchase_head": "Успешная покупка",
+ "restoreTransactions": "Восстановить покупки",
+ "successful_purchase_vip_30": "+30 дней"
 }
