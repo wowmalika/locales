@@ -472,5 +472,8 @@
  "maintain_app_for_exp_faild": "You have already received a free experience of the vote.",
  "successful_purchase_head": "Successful purchase",
  "restoreTransactions": "Restore Transactions",
- "successful_purchase_vip_30": "+30 days"
+ "successful_purchase_vip_30": "+30 days",
+ "purchased":"Куплено",
+ "faberge_bouquet_of_flowers": "Faberge Egg «Bouquet of Flowers»",
+ "faberge_bouquet_of_flowers_description": "Emperor Nikolai II presented this gift to his wife Alexandra Fedorovna in 1901. The egg is  made in the shape of flower baskets and covered with gold enamel and diamonds. Today, this relic belongs to jewelry collection of Queen Elizabeth II."
 }

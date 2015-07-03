@@ -473,5 +473,8 @@
  "maintain_app_for_exp_faild": "Вы уже получали опыт за голосование",
  "successful_purchase_head": "Успешная покупка",
  "restoreTransactions": "Восстановить покупки",
- "successful_purchase_vip_30": "+30 дней"
+ "successful_purchase_vip_30": "+30 дней",
+ "purchased":"Purchased",
+ "faberge_bouquet_of_flowers": "Яйцо Фаберже «Корзинка цветов»",
+ "faberge_bouquet_of_flowers_description": "Пасхальный подарок Александре Федоровне от императора Николая II, выполненный в форме цветочной корзины и покрытый золотой эмалью и алмазами. В наши дни эта ювелирная реликвия принадлежит коллекции королевы Великобритании Елизаветы II."
 }
