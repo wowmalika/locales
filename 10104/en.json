@@ -1757,5 +1757,8 @@
   "police":"Vice Squad",
   "cat":"Cat",
   "cat_descr":"Naughty kitten is looking for owners! Fatten pet by gifts, send to work hard and you will get an adult cat. Each period of his growing up is the whole show!",
-  "cat_promo":"Naughty kitten is looking for owners! Fatten pet by gifts, send to work hard and you will get an adult cat. Each period of his growing up is the whole show!"
+  "cat_promo":"Naughty kitten is looking for owners! Fatten pet by gifts, send to work hard and you will get an adult cat. Each period of his growing up is the whole show!",
+  "relations":"Отношения",
+  "pet_loves":"{0} loves",
+  "pet_hates":"{0} hates"
 }
