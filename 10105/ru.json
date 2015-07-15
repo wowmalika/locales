@@ -436,7 +436,10 @@
   "video_checking": "Видео проверяется …",
   "vip_button_for_month": "Ежемесячная за {0}",
   "vip_button_for_year": "Годовая за {0} в месяц",
+  "vip_button_for_month_review": "{0} (1 Месяц)",
+  "vip_button_for_year_review": "{0} (1 Год)",
   "vip_description": "VIP статус дает право совершать приватные звонки скрытые от посторонних глаз!",
+  "vip_description_air": "VIP статус (подписка с автоматическим продлением) дает право совершать приватные звонки скрытые от посторонних глаз!",
   "vip_disabled": "Неактивен",
   "vip_enabled": "Активен",
   "vip_status": "VIP статус",
@@ -488,6 +491,6 @@
  "review_login_text": "Подтверждая запрос, вы разрешаете этому приложению использовать свои данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
  "user_agreement_link_doc": "https://docs.google.com/document/d/1TADbIVUWOgSONd1A5ppOsaznlH9sAwBuEK3t6VxaRt4/pub",
  "user_therms_link_doc": "https://docs.google.com/document/d/1dWtuuU6ibUofun8eQoyQy8AqFeztWJk2iJoy6d9oESs/pub",
-"vip_linked_text": "VIP Подписки используют ваши данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>."
-
+"vip_linked_text": "VIP Подписки используют ваши данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
+"manage_subscriptions": "Управление подписками"
 }

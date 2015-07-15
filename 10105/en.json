@@ -434,7 +434,10 @@
   "video_checking": "Video is checking",
   "vip_button_for_month": "{0} monthly",
   "vip_button_for_year": "Annual: {0} monthly",
+  "vip_button_for_month_review": "{0} (1 Month)",
+  "vip_button_for_year_review": "{0} (1 Year)",
   "vip_description": "VIP status gives you the right to make private calls hidden from all eyes and ears!",
+  "vip_description_air": "VIP status (auto-renewable subscription) gives you the right to make private calls hidden from all eyes and ears!",
   "vip_disabled": "Disabled",
   "vip_enabled": "Enabled",
   "vip_status": "VIP status",
@@ -486,5 +489,6 @@
  "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
  "user_agreement_link_doc": "https://docs.google.com/document/d/1pnvHPZa7c5lQ49Ib0e_-cG7VoPgoqyZntBigIHEk_kU/pub",
  "user_therms_link_doc": "https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub",
- "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>."
+ "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
+ "manage_subscriptions": "Manage Subscriptions"
 }
