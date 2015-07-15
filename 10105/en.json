@@ -480,5 +480,11 @@
  "successful_purchase_vip_30": "+30 days",
  "purchased":"Purchased",
  "faberge_bouquet_of_flowers": "Faberge Egg «Bouquet of Flowers»",
- "faberge_bouquet_of_flowers_description": "Emperor Nikolai II presented this gift to his wife Alexandra Fedorovna in 1901. The egg is  made in the shape of flower baskets and covered with gold enamel and diamonds. Today, this relic belongs to jewelry collection of Queen Elizabeth II."
+ "faberge_bouquet_of_flowers_description": "Emperor Nikolai II presented this gift to his wife Alexandra Fedorovna in 1901. The egg is  made in the shape of flower baskets and covered with gold enamel and diamonds. Today, this relic belongs to jewelry collection of Queen Elizabeth II.",
+ "report_button": "Report",
+ "report_message": "The report on {0} has been sent to the moderators. False reporting may result in suspension/ban.",
+ "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
+ "user_agreement_link_doc": "https://docs.google.com/document/d/1pnvHPZa7c5lQ49Ib0e_-cG7VoPgoqyZntBigIHEk_kU/pub",
+ "user_therms_link_doc": "https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub",
+ "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>."
 }
