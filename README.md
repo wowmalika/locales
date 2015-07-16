@@ -1,8 +1,8 @@
 # locales
 Языковые файлы для проектов
 
-10104 - Faminta - Live Stream And Chat<br>
-10105 - Faminta - Video Chat And Dating<br>
+10104 - Чат Реалити<br>
+10105 - Видеочат Беседа<br>
 10106 - Faminta CodeIgniter<br>
 10107 - mastertigra.com<br>
 10313 - AIR Shower<br>
