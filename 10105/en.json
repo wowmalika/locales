@@ -89,7 +89,7 @@
   "buy": "Buy",
   "buy_coins": "Buy coins",
   "buy_coins_special": "GET IT NOW",
-  "buy_coins_special_offer": "Today, on the birthday <a href='{0}'>Chat Vanilla Show</a>, we double bought coins!",
+  "buy_coins_special_offer": "Only today: receive 2 times more Experience for the activity in FlirtyMania. Turn on the camera and give expensive gifts!",
   "buy_souvenir": "Buy souvenir",
   "buy_stickers_success": "Successful purchase +{0} stickers {1}, -{2} coins +{3} exp.",
   "buy_vip": "Buy VIP",
@@ -386,7 +386,7 @@
   "sign_in_with_vk_button": "Sign in with VK",
   "simple_draw": "The goalless draw In this round",
   "someone_send_present_to_another": "{0} sent the gift {1} for {2}",
-  "special_offer": "Special Offer",
+  "special_offer": "Upgrade your Level!",
   "spectators": "Spectators",
   "start_talk": "Go live!",
   "stickers": "stickers",
@@ -491,5 +491,6 @@
  "user_agreement_link_doc": "https://docs.google.com/document/d/1pnvHPZa7c5lQ49Ib0e_-cG7VoPgoqyZntBigIHEk_kU/pub",
  "user_therms_link_doc": "https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub",
  "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
- "manage_subscriptions": "Manage Subscriptions"
+ "manage_subscriptions": "Manage Subscriptions",
+ "buy_coins_special_offer_store": "Today: Make purchases and get 2 times more Experience and higher Level."
 }

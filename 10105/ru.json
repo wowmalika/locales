@@ -89,7 +89,7 @@
   "buy": "Купить",
   "buy_coins": "Купить монет",
   "buy_coins_special": "КУПИТЬ",
-  "buy_coins_special_offer": "Сегодня, в честь дня рождения чата <a href='{0}'>Реалити</a>, мы удваиваем купленные монеты!",
+  "buy_coins_special_offer": "Только сегодня получай в 2 раза больше Опыта за активность в Чате. Включай камеру и дари дорогие подарки!",
   "buy_souvenir": "Купить сувениры",
   "buy_stickers_success": "Успешная покупка +{0} стикеров {1}, -{2} мон. +{3} оп.",
   "buy_vip": "Купить VIP",
@@ -387,7 +387,7 @@
   "sign_in_with_vk_button": "Войти через ВКонтакте",
   "simple_draw": "В этом раунде нулевая - ничья",
   "someone_send_present_to_another": "{0} сделал подарок {1} для {2}",
-  "special_offer": "Специальное предложение",
+  "special_offer": "Прокачай свой Уровень!",
   "spectators": "Зрители",
   "start_talk": "Начать беседу",
   "stickers": "стикеров",
@@ -492,5 +492,6 @@
  "user_agreement_link_doc": "https://docs.google.com/document/d/1TADbIVUWOgSONd1A5ppOsaznlH9sAwBuEK3t6VxaRt4/pub",
  "user_therms_link_doc": "https://docs.google.com/document/d/1dWtuuU6ibUofun8eQoyQy8AqFeztWJk2iJoy6d9oESs/pub",
 "vip_linked_text": "VIP Подписки используют ваши данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
-"manage_subscriptions": "Управление подписками"
+"manage_subscriptions": "Управление подписками",
+"buy_coins_special_offer_store": "Сегодня: Получай за покупки в 2 раза больше Опыта и повышай Уровень."
 }
