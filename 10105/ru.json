@@ -89,7 +89,7 @@
   "buy": "Купить",
   "buy_coins": "Купить монет",
   "buy_coins_special": "КУПИТЬ",
-  "buy_coins_special_offer": "Акция: Получай за покупки в 2 раза больше Опыта и повышай Уровень. Только сегодня.",
+  "buy_coins_special_offer": "Прокачай свой Уровень! Только сегодня получай в 2 раза больше Опыта за активность в Чате. Включай камеру и дари дорогие подарки!",
   "buy_souvenir": "Купить сувениры",
   "buy_stickers_success": "Успешная покупка +{0} стикеров {1}, -{2} мон. +{3} оп.",
   "buy_vip": "Купить VIP",
@@ -492,5 +492,6 @@
  "user_agreement_link_doc": "https://docs.google.com/document/d/1TADbIVUWOgSONd1A5ppOsaznlH9sAwBuEK3t6VxaRt4/pub",
  "user_therms_link_doc": "https://docs.google.com/document/d/1dWtuuU6ibUofun8eQoyQy8AqFeztWJk2iJoy6d9oESs/pub",
 "vip_linked_text": "VIP Подписки используют ваши данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
-"manage_subscriptions": "Управление подписками"
+"manage_subscriptions": "Управление подписками",
+"buy_coins_special_offer_store": "Акция: Получай за покупки в 2 раза больше Опыта и повышай Уровень. Только сегодня."
 }
