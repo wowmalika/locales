@@ -497,6 +497,7 @@
  "great_gifts": "Good",
  "wonderful_gifts": "Wonderful",
  "rare_gifts": "Rare",
+ "popular_gifts_description": "Most popular gifts",
  "great_gifts_description": "Message of the gift recipient will receive only.",
  "wonderful_gifts_description": "Message of the gift received by all users in the main chat.",
  "rare_gifts_description": "Message of the gift received by all users in all chat rooms."
