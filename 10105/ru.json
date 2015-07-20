@@ -493,5 +493,12 @@
  "user_therms_link_doc": "https://docs.google.com/document/d/1dWtuuU6ibUofun8eQoyQy8AqFeztWJk2iJoy6d9oESs/pub",
 "vip_linked_text": "VIP Подписки используют ваши данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
 "manage_subscriptions": "Управление подписками",
-"buy_coins_special_offer_store": "Сегодня: Получай за покупки в 2 раза больше Опыта и повышай Уровень."
+"buy_coins_special_offer_store": "Сегодня: Получай за покупки в 2 раза больше Опыта и повышай Уровень.",
+ "popular_gifts": "Популярные",
+ "great_gifts": "Отличные",
+ "wonderful_gifts": "Чудесные",
+ "rare_gifts": "Редкие",
+ "great_gifts_description": "Сообщение о подарке получит только адресат.",
+ "wonderful_gifts_description": "Сообщение о подарке отптавится в главный чат.",
+ "rare_gifts_description": "Сообщение о подарке отптавится во все комнаты и в главный чат."
 }
