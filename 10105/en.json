@@ -492,5 +492,12 @@
  "user_therms_link_doc": "https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub",
  "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
  "manage_subscriptions": "Manage Subscriptions",
- "buy_coins_special_offer_store": "Today: Make purchases and get 2 times more Experience and higher Level."
+ "buy_coins_special_offer_store": "Today: Make purchases and get 2 times more Experience and higher Level.",
+ "popular_gifts": "Popular",
+ "great_gifts": "Good",
+ "wonderful_gifts": "Wonderful",
+ "rare_gifts": "Rare",
+ "great_gifts_description": "Message of the gift recipient will receive only.",
+ "wonderful_gifts_description": "Message of the gift received by all users in the main chat.",
+ "rare_gifts_description": "Message of the gift received by all users in all chat rooms."
 }
