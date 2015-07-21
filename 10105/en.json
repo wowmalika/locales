@@ -501,5 +501,8 @@
  "great_gifts_description": "Message of the gift recipient will receive only.",
  "wonderful_gifts_description": "Message of the gift received by all users in the main chat.",
  "rare_gifts_description": "Message of the gift received by all users in all chat rooms.",
- "gift_shop": "Gift shop"
+ "gift_shop": "Gift shop",
+ "great_gifts_single": "Good",
+ "wonderful_gifts_single": "Wonderful",
+ "rare_gifts_single": "Rare"
 }
