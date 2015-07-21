@@ -502,5 +502,8 @@
  "great_gifts_description": "Сообщение о подарке получит только адресат.",
  "wonderful_gifts_description": "Сообщение о подарке отптавится в главный чат.",
  "rare_gifts_description": "Сообщение о подарке отптавится во все комнаты и в главный чат.",
- "gift_shop": "Магазин подарков"
+ "gift_shop": "Магазин подарков",
+ "great_gifts_single": "Отличный",
+ "wonderful_gifts_single": "Чудесный",
+ "rare_gifts_single": "Редкий"
 }
