@@ -496,7 +496,7 @@
 "buy_coins_special_offer_store": "Сегодня: Получай за покупки в 2 раза больше Опыта и повышай Уровень.",
  "popular_gifts": "Популярные",
  "great_gifts": "Ценные",
- "wonderful_gifts": "Престижные",
+ "wonderful_gifts": "Желанные",
  "rare_gifts": "Элитные",
  "popular_gifts_description": "Не прогадайте с выбором: коллекция самых популярных подарков Чата.",
  "great_gifts_description": "Добавьте приватности: оповещение о получении подарка придет только адресату.",
@@ -504,6 +504,6 @@
  "rare_gifts_description": "Про вашу щедрость узнают все: уведомления о подарке отобразятся во всех чатах.",
  "gift_shop": "Магазин подарков",
  "great_gifts_single": "Ценный",
- "wonderful_gifts_single": "Престижный",
+ "wonderful_gifts_single": "Желанный",
  "rare_gifts_single": "Элитный"
 }
