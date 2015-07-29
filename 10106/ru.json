@@ -31,6 +31,7 @@
   "common.fines.reasons.strong": "Нецензурная брань",
   "common.fines.reasons.suicide": "Трансляция сцен суицида и призывы к нему",
   "common.fines.reasons.threat": "Угроза жизни и здоровью пользователя",
+  "common.fines.reasons.lostaccount": "За утерю аккаунта по вине пользователя",
   "common.fines.spryPayLabel": "Через <b>SpryPay</b>",
   "common.fines.timeDays": "д.",
   "common.fines.timeHeader": "Вы заблокированы, доступ  приложению будет открыт через",
