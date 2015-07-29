@@ -127,7 +127,7 @@
   "confirm_terms": "Accept",
   "connecting_to_server": "Connecting to server...",
   "connection_canceled_head": "Connection is canceled",
-  "connection_faild": "Connection error.",
+  "connection_faild": "Connection error",
   "connection_from_another_place": "Someone from another location has connected to your account",
   "connection_from_another_place_head": "Another place",
   "connection_lost": "The connection attempt failed.",
