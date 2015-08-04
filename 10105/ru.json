@@ -507,5 +507,11 @@
  "great_gifts_single": "Ценный",
  "wonderful_gifts_single": "Желанный",
  "rare_gifts_single": "Элитный",
- "maintain_app_for_exp_ios": "Оцените наше приложение в App Store и получите 1000 опыта бесплатно! [Получить опыт]"
+ "maintain_app_for_exp_ios": "Оцените наше приложение в App Store и получите 1000 опыта бесплатно! [Получить опыт]",
+ "change_profile_photo_head": "Сменить аватар",
+ "take_photo": "Сделать снимок",
+ "choose_photo": "Выбрать фотографию",
+ "denied_access_to_the_galery": "Видео Беседа не имеет доступа к вашим фотографиям",
+ "need_access_to_galery": "Нам нужен доступ к вашим фотографиям, что бы установить новый аварат из фотографий",
+ "need_access_to_push_notification": "Вы хотите получать уведомление когда {0} начнет трансляцию?"
 }
