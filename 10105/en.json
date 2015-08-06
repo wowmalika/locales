@@ -513,5 +513,6 @@
  "choose_photo": "Choose Photo",
  "denied_access_to_the_galery": "FlirtyMania doese not have access to your photos.",
  "need_access_to_galery": "To set new profile photo from photos, we need access to your photos.",
- "need_access_to_push_notification": "Do you want get push notification, when {0} will start broadcast?"
+ "need_access_to_push_notification": "Do you want to know, when {0} will start broadcast?",
+ "need_access_to_push_notification_button": "Yes I do"
 }
