@@ -514,5 +514,6 @@
  "denied_access_to_the_galery": "Видео Беседа не имеет доступа к вашим фотографиям",
  "need_access_to_galery": "Нам нужен доступ к вашим фотографиям, что бы установить новый аварат из фотографий",
  "need_access_to_push_notification": "Вы хотите узнать первым, когда {0} начнет трансляцию?",
- "need_access_to_push_notification_button": "Да, хочу!"
+ "need_access_to_push_notification_button": "Да, хочу!",
+ "need_access_to_push_notification_head": "Уведомления"
 }
