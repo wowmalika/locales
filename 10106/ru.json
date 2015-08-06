@@ -72,7 +72,7 @@
   "common.payments.subscriptionPromoLabel": "6 месяцев бесплатно!",
   "common.payments.success.*.text": "{h1}Ура! Поздравляем вас с успешной оплатой!{/h1}",
   "common.payments.success.cr.text": "{h1}Ура! Поздравляем вас с успешной оплатой!{/h1} \n{p}Вы совершили покупку за счёт средств предоставленного вам Обещанного платежа на сумму {sum}. Напоминаем, что погасить Обещанный платеж необходимо в течение {limitDays} дней.{/p}",
-  "common.paymentsList.pop": "Popular payment methods",
+  "common.paymentsList.pop": "Популярные способы оплаты",
   "common.paymentsList.ap": "Внутренний счёт",
   "common.paymentsList.ap.disclaimer": "Оплата с использованием вашего внутреннего партнёрского баланса на проектах команды «Мастера Тигры».\n<br><br>\nТекущий баланс: ${balance}.",
   "common.paymentsList.ap.title": "Мастер Тигра",
