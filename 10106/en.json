@@ -71,6 +71,7 @@
   "common.payments.subscriptionPromoLabel": "6 months for free!",
   "common.payments.success.*.text": "{h1}Hooray! You have successfully paid!{/h1}",
   "common.payments.success.cr.text": "{h1}Hooray! You have successfully paid!{/h1}\n{p}You made the purchase at the expense of funds provided for you the Promised of payment in the amount of {sum}. We remind you that you must repay the Promised payment within {limitDays} days.{/p}",
+  "common.paymentsList.pop": "Popular payment methods",
   "common.paymentsList.ap": "Domestic account",
   "common.paymentsList.ap.disclaimer": "Payment from your domestic affiliate account on projects of the Master Tigra team.\n<br><br>\nCurrent Balance: ${balance}.",
   "common.paymentsList.ap.title": "Master Tigra",
