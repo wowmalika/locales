@@ -511,9 +511,11 @@
  "change_profile_photo_head": "Сменить аватар",
  "take_photo": "Сделать снимок",
  "choose_photo": "Выбрать фотографию",
- "denied_access_to_the_galery": "Видео Беседа не имеет доступа к вашим фотографиям",
- "need_access_to_galery": "Нам нужен доступ к вашим фотографиям, что бы установить новый аварат из фотографий",
+ "denied_access_to_the_galery": "Видео Беседа не имеет доступа к вашим фотографиям.",
+ "need_access_to_galery": "Нам нужен доступ к вашим фотографиям, что бы установить новый аватар из фотографий.",
  "need_access_to_push_notification": "Вы хотите знать когда {0} начнет трансляцию?",
  "need_access_to_push_notification_button": "Да, хочу!",
- "need_access_to_push_notification_head": "Уведомления"
+ "need_access_to_push_notification_head": "Уведомления",
+ "denied_access_to_the_camera_for_ava": "Нам нужен доступ к камере, что бы вы могли заснять новый аватар.",
+ "need_access_to_camera_for_ava": "Видео Беседа не имеет доступа к камере."
 }
