@@ -516,6 +516,6 @@
  "need_access_to_push_notification": "Вы хотите знать когда {0} начнет трансляцию?",
  "need_access_to_push_notification_button": "Да, хочу!",
  "need_access_to_push_notification_head": "Уведомления",
- "denied_access_to_the_camera_for_ava": "Нам нужен доступ к камере, что бы вы могли заснять новый аватар.",
- "need_access_to_camera_for_ava": "Видео Беседа не имеет доступа к камере."
+ "denied_access_to_the_camera_for_ava": "Видео Беседа не имеет доступа к камере.",
+ "need_access_to_camera_for_ava": "Нам нужен доступ к камере, что бы вы могли заснять новый аватар."
 }
