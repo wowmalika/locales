@@ -1225,6 +1225,11 @@
   "Item_487_rod": "Order «Gnomogradu 4 years!»",
   "Item_487_prep": "Order «Gnomogradu 4 years!»",
   "Item_487_desc": "We wish to live with you only good dwarves, coins flowed freely, and monsters avoided by your city. Thank you for your love and devotion to our small world!",
+
+  "item_27": "Storage coins",
+  "item_27_rod": "Storage coins",
+  "item_27_prep": "Storage coins",
+  "item_27_desc": "Storage should dwarves to store the accumulated coins. The more coins you have, the more you need to build a warehouse. Remember that the explosion of coins that were in the store will go to the attacker.",
   
   "item_6000": "Den of thieves",
   "item_70003_desc": "Big scary dragon. Fire burns.",
