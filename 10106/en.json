@@ -1,6 +1,6 @@
 {
   "common.fines.accessDisclaimer": "access to the application will be possible only after the payment of a fine",
-  "common.fines.accessDisclaimer2": "If you want to use application you should pay right now.\n<br>Amnesty:\n<br>Just for today: birthday Gnomenations we paid 50% of your fine. To return to the projects - will pay only half the price!",
+  "common.fines.accessDisclaimer2": "If you want to use application you should pay right now.\n<br><br><b>Amnesty</b>:\n<br>Just for today: birthday Gnomenations we paid 50% of your fine. To return to the projects - will pay only half the price!",
   "common.fines.accessRestricted": "Access restricted!",
   "common.fines.file": "Penalty Notice No.:",
   "common.fines.fineLabel": "${0}",
