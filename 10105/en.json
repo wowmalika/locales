@@ -89,7 +89,7 @@
   "buy": "Buy",
   "buy_coins": "Buy coins",
   "buy_coins_special": "GET IT NOW",
-  "buy_coins_special_offer": "Last chance to get twice Experience and higher Level. Offer expire in few hours.",
+  "buy_coins_special_offer": "Holiday offer: Double coins and Amnesty discount in honor of the <a href='{0}'>Gnomenations</a> birthday!",
   "buy_souvenir": "Buy souvenir",
   "buy_stickers_success": "Successful purchase +{0} stickers {1}, -{2} coins +{3} exp.",
   "buy_vip": "Buy VIP",
@@ -493,7 +493,7 @@
  "user_therms_link_doc": "https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub",
  "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
  "manage_subscriptions": "Manage Subscriptions",
- "buy_coins_special_offer_store": "Today: Make purchases and get 2 times more Experience and higher Level.",
+ "buy_coins_special_offer_store": "Have all of the precious and jewelry collection stones, exclusively released to the <a href='{0}'>Gnomenations</a> birthday!",
  "popular_gifts": "Popular",
  "great_gifts": "Affordable",
  "wonderful_gifts": "Prestigious",
@@ -534,4 +534,5 @@
  "gems_diamond_description": "This the most expensive stone in the world is known for its beauty and special magical properties. To give a diamond means to bring success and good luck to his new owner.",
  "gnome_nations_birthday_link": "http://www.gnomenations.com?utm_source=flirtymania&utm_medium=promo&utm_campaign=gnomograd_create_city",
  "gnome_nations_birthday_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd"
+
 }
