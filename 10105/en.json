@@ -517,5 +517,21 @@
  "need_access_to_push_notification_button": "Yes I do",
  "need_access_to_push_notification_head": "Notification",
  "denied_access_to_the_camera_for_ava": "FlirtyMania doese not have access to your camera.",
- "need_access_to_camera_for_ava": "To set new profile photo from camera, we need access to camera."
+ "need_access_to_camera_for_ava": "To set new profile photo from camera, we need access to camera.",
+ "gems_pearl": "Pearl",
+ "gems_ruby": "Ruby",
+ "gems_garnet": "Garnet",
+ "gems_topaz": "Topaz",
+ "gems_sapphire": "Sapphire",
+ "gems_amber": "Amber",
+ "gems_diamond": "Diamond",
+ "gems_pearl_description": "This stone is rightly called a symbol of longevity and enduring beauty. It helps his master to find a common language with each viewer and protects from "star disease".",
+ "gems_ruby_description": "«King of Gems» gives an attractiveness for woman and confidence for man. Moreover, it works  as a talisman and protects against injuries and evil intents of enemies.",
+ "gems_garnet_description": "Since ancient times believed that the Garnet is a lovers stone. To gift Garnet means to declare your love or express gratitude. This stone could rekindle sweetheart's passion and sympathy.",
+ "gems_topaz_description": "Topaz is universally considered as the stone of friendship, wisdom and spiritual purity. Commonly people give talisman with Topaz to attract good luck, success in their professional career and material wealth.",
+ "gems_sapphire_description": "Present the mineral as a sign of admiration for innocence and purity of your friend. This Sapphire will give harmony and wisdom to new owner.",
+ "gems_amber_description": "This gem is a great comforter. It gives relief and hope for a brighter future. Amber increases vitality, develops intuition and saves from the evil eye.",
+ "gems_diamond_description": "This the most expensive stone in the world is known for its beauty and special magical properties. To give a diamond means to bring success and good luck to his new owner.",
+ "gnome_nations_birthday_link": "http://www.gnomenations.com?utm_source=flirtymania&utm_medium=promo&utm_campaign=gnomograd_create_city",
+ "gnome_nations_birthday_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd"
 }
