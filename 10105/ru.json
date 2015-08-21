@@ -536,5 +536,6 @@
  "gnome_nations_bd_android_link":"https://play.google.com/store/apps/detailsid=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd_create_city",
  "share_for_exp": "Расскажите о приложении друзьям в соцсети и получите 1000 опыта бесплатно! [Получить опыт]",
  "share_for_exp_success": "Опыт начислен +1000",
- "share_for_exp_faild": "Вы уже получали опыт за это действие"
+ "share_for_exp_faild": "Вы уже получали опыт за это действие",
+ "share_for_exp_cancel": "Вы отменили действие «Рассказать друзьям»"
 }
