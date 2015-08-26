@@ -538,5 +538,11 @@
  "share_for_exp_success": "The experience accrued: +1000",
  "share_for_exp_faild": "You have already received a free experience of the share.",
  "share_for_exp_cancel": "You have canceled the share action.",
- "restart_the_app": "Restart the app"
+ "restart_the_app": "Restart the app",
+ "permission_head_media": "Permission",
+ "permission_head_galery": "Permission",
+ "permission_head_video": "Permission",
+ "permission_head_denied_media": "Permission",
+ "permission_head_denied_galery": "Permission",
+ "permission_head_denied_video": "Permission"
 }
