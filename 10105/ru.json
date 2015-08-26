@@ -538,5 +538,11 @@
  "share_for_exp_success": "Опыт начислен +1000",
  "share_for_exp_faild": "Вы уже получали опыт за это действие",
  "share_for_exp_cancel": "Вы отменили действие «Рассказать друзьям»",
- "restart_the_app": "Перезапустите приложение"
+ "restart_the_app": "Перезапустите приложение",
+ "permission_head_media": "Разрешение",
+ "permission_head_galery": "Разрешение",
+ "permission_head_video": "Разрешение",
+ "permission_head_denied_media": "Разрешение",
+ "permission_head_denied_galery": "Разрешение",
+ "permission_head_denied_video": "Разрешение"
 }
