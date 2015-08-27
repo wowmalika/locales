@@ -544,5 +544,7 @@
  "permission_head_video": "Разрешение",
  "permission_head_denied_media": "Разрешение",
  "permission_head_denied_galery": "Разрешение",
- "permission_head_denied_video": "Разрешение"
+ "permission_head_denied_video": "Разрешение",
+ "faberge_red_cross": "Яйцо Фаберже «Красный крест»",
+ "faberge_red_cross_description": "Этот подарок отдает должное услугам, оказываемым Красному Кресту императрицей Марией Федоровной. Из-за строжайшей экономии в Первую Мировую войну ювелирное яйцо 1915 года отличалось особой простотой в оформлении и невысокой стоимостью."
 }
