@@ -42,7 +42,7 @@
   "ach_sended_likes3": "Connoisseur of beauty",
   "ach_sended_likes4": "Esthete",
   "ach_unlocked": "Achievement unlocked",
-  "achieve_reward":"For getting '{0}' achievement you're rewarded with {1} coins and {2} fame",
+  "achieve_reward":"For getting '{0}' achievement you're rewarded with {1} coins.",
   "action_doubling": "Sale 50%!!",
   "activity": "Activity",
   "added_maximum_services": "You have added maximum services",
@@ -1803,6 +1803,5 @@
   "city_game_rules":"Начинается игра в города. Правила: Игрок, который начинает игру, называет первый город и ставит ставку. Следующий игрок должен назвать город, название которого начинается на последнюю букву предыдущего города. После чего сделать ставку. Игра заканчивается, когда игроки не могут долго придумать название следующего города. Таким образом, победителем становится игрок, чей город в «Перекличке» стал последним. В банке сейчас {0}.",
   "city_game_any_city":"Для начала игры можно назвать любой город.",
   "city_game_letter_city":"Последний город {0}. Надо назвать город на букву '{1}'.",
-  "pro_status_expires_soon":"Your PRO status expires soon({0}). Do you want to prolong it??",
-  "locales_update":"locales_update"
+  "pro_status_expires_soon":"Your PRO status expires soon({0}). Do you want to prolong it??"
 }
