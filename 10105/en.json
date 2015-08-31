@@ -507,7 +507,9 @@
  "wonderful_gifts_single": "Prestigious",
  "rare_gifts_single": "Elite",
  "maintain_app_for_exp_ios": "Rate app in App Store and you will get 1000 experience for free! [Get experience.]",
- "ios_inst": "vcr",
+ "ios_inst": "review_6",
+ "min_shower_version_ios": "21.14.18",
+ "min_shower_version_android": "21.14.18",
  "change_profile_photo_head": "Profile photo",
  "take_photo": "Take Photo",
  "choose_photo": "Choose Photo",
@@ -547,8 +549,5 @@
  "permission_head_denied_video": "Permission",
  "faberge_red_cross": "Faberge egg «Red Cross»",
  "faberge_red_cross_description": "This gift symbolizes a tribute of respect to activity of Empress Maria Fedorovna in the Red Cross. Due to austerity in the First World War the jewelry egg was low cost and particularly simple in design.",
- "test_22133": "test",
- "test_223": "test_2",
- "test_13": "13",
- "test_134444": "13qweeqw"
+ "test": "133333"
 }
