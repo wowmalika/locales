@@ -1803,5 +1803,11 @@
   "city_game_rules":"Начинается игра в города. Правила: Игрок, который начинает игру, называет первый город и ставит ставку. Следующий игрок должен назвать город, название которого начинается на последнюю букву предыдущего города. После чего сделать ставку. Игра заканчивается, когда игроки не могут долго придумать название следующего города. Таким образом, победителем становится игрок, чей город в «Перекличке» стал последним. В банке сейчас {0}.",
   "city_game_any_city":"Для начала игры можно назвать любой город.",
   "city_game_letter_city":"Последний город {0}. Надо назвать город на букву '{1}'.",
-  "pro_status_expires_soon":"Your PRO status expires soon({0}). Do you want to prolong it??"
+  "pro_status_expires_soon":"Your PRO status expires soon({0}). Do you want to prolong it?",
+  "need_send_likes": "Send {0} likes",
+  "need_receive_likes": "Receive {0} likes",
+  "need_minutes_translate": "Translate {0} minutes",
+  "need_buy_present_money": "Spend {0} coins on gifts",
+  "need_ban_money_descr": "Spend {0} coins for bans",
+  "need_punish_money_descr": "Spend {0} coins for punishments"
 }
