@@ -1,10 +1,10 @@
 {
-  "common.fines.accessDisclaimer2": "Чтобы пользоваться приложением прямо сейчас — оплатите штраф.",
+  "common.fines.accessDisclaimer2": "Чтобы пользоваться приложением прямо сейчас — внесите оплатиту.",
   "common.fines.accessRestricted": "Доступ ограничен",
   "common.fines.evidence.header": "Внимание!",
-  "common.fines.evidence.text": "У нас есть изображение-доказательство нарушения. Мы скрыли его, т. к. этот материал может быть непристойным или даже шокирующим. Но вы по собственному желанию можете увидеть этот материал.",
+  "common.fines.evidence.text": "Скриншот, подтверждающий нарушение может содержать материал шокирующего содержания.",
   "common.fines.evidence.checkIs18y": "Мне уже исполнилось 18 лет",
-  "common.fines.evidence.toShow": "Показать доказательство",
+  "common.fines.evidence.toShow": "Просмотреть",
   "common.fines.fineLabel": "${0}",
   "common.fines.header": "Вы нарушили правило",
   "common.fines.headerPaidService": "Оплата услуги",
