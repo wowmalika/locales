@@ -1235,7 +1235,7 @@
   "present_ocean_heart": "Heart of the Ocean",
   "present_ocean_heart_descr": "The famous precious necklace from the movie \"Titanic\" in which the main character Rose posed nude for her beloved artist. Price for a diamond jewelry is so high that only the wealthiest people can afford it.",
   "present_perfume": "Perfume",
-  "present_perfume_descr": "Ladies always love to recieve perfume as a gift. This exquisite gesture will say a lot to lady about your intentions. The gift can be well supplemented by «Bouquet of red roses» and «Candy».",
+  "present_perfume_descr": "Ladies always love to receive perfume as a gift. This exquisite gesture will say a lot to lady about your intentions. The gift can be well supplemented by «Bouquet of red roses» and «Candy».",
   "present_purple_ball": "Fancy purple ball",
   "present_purple_snowflake": "Fancy purple snowflake",
   "present_received": "Present received",
@@ -1809,5 +1809,10 @@
   "need_minutes_translate": "Translate {0} minutes",
   "need_buy_present_money": "Spend {0} coins on gifts",
   "need_ban_money_descr": "Spend {0} coins for bans",
-  "need_punish_money_descr": "Spend {0} coins for punishments"
+  "need_punish_money_descr": "Spend {0} coins for punishments",
+  "porno": "Broadcasting porn materials",
+  "children": "Broadcast children (without parental care)",
+  "suicide": "Broadcast scenes of suicide and calls for it",
+  "drugs": "Usage of drugs or drugs propaganda",
+  "money_log_achievement_reward":"Achievement reward"
 }
