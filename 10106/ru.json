@@ -36,7 +36,7 @@
   "common.fines.reasons.migrate-account-data": "Перенос данных учётной записи (славы, репутации) на другую учётную запись",
   "common.fines.reasons.migrate-account-resources": "Перенос игровой валюты или ресурсов на другую учётную запись/сервер",
   "common.fines.reasons.edit-blocking": "Удаление (блокировка) аккаунтов, расклонирование",
-  "common.fines.reasons.check-network-data": "Проверка сетевой активности аккаунта (IP-адреса, ID-устройства с которого осуществляется заход)",
+  "common.fines.reasons.check-network-data": "Проверка сетевой активности аккаунта (IP-адреса, ID-устройства)",
   "common.fines.timeDays": "д.",
   "common.fines.timeHeader": "Вы заблокированы, доступ  приложению будет открыт через",
   "common.fines.timeHours": "ч.",
